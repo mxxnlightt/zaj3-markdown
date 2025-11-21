@@ -1,25 +1,25 @@
 <h1>Hints:</h1>
 <hr style="border: 0.5px solic #ccc;">
-<h6>
+<h4>
     <b>Ikonki użyte w plikach MD:</b> to nic innego jak unicode
     <ul>
         <li>Skróty klawiszowe</li>
         <li>MacOS 🍎 -> <b>ctrl + cmd + space</b></li>
         <li>Windows 🪟 -> <b>win + .</b> lub <b>win + ;</b></li>
     </ul>
-    </h6>
+    </h4>
     <hr>
     <h1>📓 ProjectX - Dokumentacja Techniczna</h1>
     <hr style="border: 0.5px solic #ccc;">
-<h6>
-   <b>Wersja:</b> 2.3.7
-    <b>Data ostatniej aktualizacji:</b> 2025-02-14
-     <b>Autor:</b> Zespół Frontend - Akademia Nowych Technologii
-</h6>
+<h4>
+   <b>Wersja:</b> 2.3.7<br>
+    <b>Data ostatniej aktualizacji:</b> 2025-02-14<br>
+     <b>Autor:</b> Zespół Frontend - Akademia Nowych Technologii<br>
+</h4>
 <hr>
 <h2>📌Spis treści</h2>
 <hr style="border: 0.5px solic #ccc;">
-<h6>
+<h4>
     <ol>
         <li><a href="x">Opis projektu</a></li>
         <li><a href="x">Specyfikacja techniczna</a></li>
@@ -32,11 +32,11 @@
         <li><a href="x">Lista zadań do wykonania</a></li>
         <li><a href="x">Licencja</a></li>
     </ol>
-</h6>
+</h4>
 <hr>
 <h2>🔍Opis projektu</h2>
 <hr style="border: 0.5px solic #ccc;">
-<h6>
+<h4>
     <b>ProjectX</b> to przykładowa aplikacja frontendowa zbudowana w ramach kursu.
 Głowne cele projektu:
 <ul>
@@ -46,11 +46,11 @@ Głowne cele projektu:
     <li>praca z dokumentacją w formacie <b>Markdonw.</b></li>
 </ul>
 | "Dokumentacja jest tak samo ważna jak kod." <i>- autor nieznany</i>
-</h6>
+</h4>
 <hr>
 <h2>⚙️ Specyfikacja techniczna</h2>
 <hr style="border: 0.5px solic #ccc;">
-<h6>
+<h4>
     <b>Technologie:</b>
     <ul>
         <li>HTML5</li>
@@ -64,7 +64,7 @@ Głowne cele projektu:
         <li>Vite <b>4.5.0</b></li>
         <li>ESLint <b>8.57.0</b></li>
     </ul>
-</h6>
+</h4>
 <hr>
 <h2>🖥️ Wymagania systemowe</h2>
 <hr style="border: 0.5px solic #ccc;">
@@ -84,6 +84,6 @@ Głowne cele projektu:
         <li>Klonowanie repozytorium</li>
     </ol>
 </h2>
-<h6>git clone https://example.com/projectx.git
+<h4>git clone https://example.com/projectx.git<br>
     cd projectx
-</h6>
+</h4>
