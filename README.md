@@ -1,6 +1,6 @@
 # Hints:
 ***
-> **Ikonki użyte w plikach MD:** to nic innego jak unicode
+**Ikonki użyte w plikach MD:** to nic innego jak unicode
 * Skróty klawiszowe
   * MacOs 🍎 -> **ctrl + cmd + space**
   * Windows 🪟 -> **win + .** lub **win + ;**
@@ -9,9 +9,9 @@
 # 📓 ProjectX - Dokumentacja techniczna
 ***
 
-> **Wersja:** 2.3.7
-> **Data ostatniej aktualizacji:** 2025-02-14
-> **Autor:** Zespół Frontend - Akademia Nowych Technologii
+**Wersja:** 2.3.7
+**Data ostatniej aktualizacji:** 2025-02-14
+**Autor:** Zespół Frontend - Akademia Nowych Technologii
 
 ---
 ## 📌 Spis treści
@@ -30,24 +30,24 @@
 ---
 ## 🔍 Opis projektu
 ***
-> **ProjectX** to przykładowa aplikacja frontendowa zbudowana w ramach kursu.
-> Głowne cele projektu:
+**ProjectX** to przykładowa aplikacja frontendowa zbudowana w ramach kursu.
+Głowne cele projektu:
 * prezentacja działania podstawowego API,
 * wykorzystanie lokalnego serwera deweloperskiego,
 * demonstracja struktury projektowej,
 * praca z dokumentacją w formacie **Markdonw.**
-| "Dokumentacja jest tak samo ważna jak kod." *- autor nieznany*
+> | "Dokumentacja jest tak samo ważna jak kod." *- autor nieznany*
 ---
 ## ⚙️ Specyfikacja techniczna
 ***
-> **Technologie:**
+**Technologie:**
 * HTML5
 * CSS3 (BEM, zmienne CSS)
 * JavaScript ES2022
 * Node.js **v18.12.1**
 * npm **8.19.3**
 
-> **Build tools:**
+**Build tools:**
 * Vite **4.5.0**
 * ESLint **8.57.0**
 ---
