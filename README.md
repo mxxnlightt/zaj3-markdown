@@ -1,21 +1,18 @@
 # Hints:
-***
+
 **Ikonki użyte w plikach MD:** to nic innego jak unicode
 * Skróty klawiszowe
   * MacOs 🍎 -> **ctrl + cmd + space**
   * Windows 🪟 -> **win + .** lub **win + ;**
-
 ---
 # 📓 ProjectX - Dokumentacja techniczna
-***
 
 **Wersja:** 2.3.7  
 **Data ostatniej aktualizacji:** 2025-02-14  
 **Autor:** Zespół Frontend - Akademia Nowych Technologii  
-
 ---
 ## 📌 Spis treści
-***
+
 1. [Opis projektu](*)
 2. [Specyfikacja techniczna](*)
 3. [Wymagania systemowe](*)
@@ -29,7 +26,7 @@
 
 ---
 ## 🔍 Opis projektu
-***
+
 **ProjectX** to przykładowa aplikacja frontendowa zbudowana w ramach kursu.
 Głowne cele projektu:
 * prezentacja działania podstawowego API,
@@ -39,7 +36,7 @@ Głowne cele projektu:
 > "Dokumentacja jest tak samo ważna jak kod." *- autor nieznany*
 ---
 ## ⚙️ Specyfikacja techniczna
-***
+
 **Technologie:**
 * HTML5
 * CSS3 (BEM, zmienne CSS)
@@ -52,7 +49,7 @@ Głowne cele projektu:
 * ESLint **8.57.0**
 ---
 ## 🖥️ Wymagania systemowe
-***
+
 |Komponent|Minimalne|Rekomendowane|
 |---|---|---|
 |RAM|4 GB|8 GB|
@@ -61,7 +58,7 @@ Głowne cele projektu:
 |Przeglądarka|Chrome 95|Chrome 120|
 ---
 ## 🧩 Instalacja
-***
+
 **1. Klonowanie repozytorium**
 ```
 git clone https://example.com/projectx.git
