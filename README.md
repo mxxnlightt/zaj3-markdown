@@ -9,9 +9,9 @@
 # 📓 ProjectX - Dokumentacja techniczna
 ***
 
-**Wersja:** 2.3.7
-**Data ostatniej aktualizacji:** 2025-02-14
-**Autor:** Zespół Frontend - Akademia Nowych Technologii
+**Wersja:** 2.3.7  
+**Data ostatniej aktualizacji:** 2025-02-14  
+**Autor:** Zespół Frontend - Akademia Nowych Technologii  
 
 ---
 ## 📌 Spis treści
