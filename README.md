@@ -36,7 +36,7 @@ Głowne cele projektu:
 * wykorzystanie lokalnego serwera deweloperskiego,
 * demonstracja struktury projektowej,
 * praca z dokumentacją w formacie **Markdonw.**
-> | "Dokumentacja jest tak samo ważna jak kod." *- autor nieznany*
+> "Dokumentacja jest tak samo ważna jak kod." *- autor nieznany*
 ---
 ## ⚙️ Specyfikacja techniczna
 ***
